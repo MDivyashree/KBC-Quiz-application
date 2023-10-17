@@ -1,4 +1,8 @@
 # KBC-Quiz-application
+
+![kbc](https://github.com/MDivyashree/KBC-Quiz-application/assets/94222427/881bd0e3-fe07-4727-8fa3-ea0372a67ba1)
+
+
 This Java application is a simplified version of the "Kaun Banega Crorepati" game, where users can answer a series of questions and win virtual money. This README provides information on how to set up and run the application.
 # Requirements
 Java Development Kit (JDK) 8 or higher
